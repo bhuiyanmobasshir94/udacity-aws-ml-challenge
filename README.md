@@ -29,3 +29,6 @@ By the end of the course, you will be able to...
 - Apply software engineering principles of modular code, code efficiency, refactoring, documentation, and version control to data science.
 - Apply software engineering principles of testing code, logging, and conducting code reviews to data science.
 - Implement the basic principles of object-oriented programming to build a Python package.
+
+## Additional Resources
+- [DSND Term 2](https://github.com/udacity/DSND_Term2)
